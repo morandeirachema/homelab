@@ -1,0 +1,9 @@
+*Colnfigurar zsh 
+  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+*Configurar starship 
+  curl -sS https://starship.rs/install.sh | sh
+  Configurar ~/.zshrc
+    eval "$(starship init zsh)"
+
+
