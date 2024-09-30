@@ -1,0 +1,4 @@
+* Conectar a github desde consola
+  gh auth login
+* Clonar repo
+  gh repo clone morandeirachema/homelab
